@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ButterknifeDemo</string>
+
+
+    <string name="text_new_txt">this is new txt for textview</string>
+    <string name="button_new_txt">this is new txt for button</string>
+
+    <array name="persons">
+        <item>张三1</item>
+        <item>张三2</item>
+        <item>张三3</item>
+        <item>张三4</item>
+        <item>张三5</item>
+        <item>张三6</item>
+    </array>
+
+</resources>
